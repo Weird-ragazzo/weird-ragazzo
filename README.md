@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · weird-ragazzo</sub></p>
 <h1>Dhruv Raghav</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>AI/ML Tech Enthusiast & Cloud Practinioner</h2>
 <p>Building useful software and sharing the work in public.</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
@@ -22,7 +22,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Jupyter Notebook · Python · TypeScript</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Ai Engineer · Cloud Engineer · Full Stack Engineer  · Machine Learning Engineer</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>27 repositories · 0 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>39 contributions · 11 active days</p></td>
 </tr>
